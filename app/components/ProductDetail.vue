@@ -38,7 +38,7 @@
                         this.selectedProduct.quantity = parseInt(this
                             .textFieldValue) || 0; 
                             this.$delegate.updateCart(); 
-                            }
+                        }
                             } 
                             },
 
